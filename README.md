@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Sometime I go fishing 🎣
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="davidvu.co.uk" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://davidvu.co.uk)
 [<img align="left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/DavidVu96/devicon/master/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/vdnhnguyen)
@@ -22,7 +22,7 @@
 <br />
 
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/DavidVu96/devicon/master/icons/intellij/intellij-original.svg" />

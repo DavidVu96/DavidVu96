@@ -1,4 +1,4 @@
-### Hi there, I'm [David](https://davidvu.co.uk) 👋
+# Hi there, I'm [David](https://davidvu.co.uk) 👋
 
 ## I'm a Developer, Casual Gamer and Photographer!
 - 🔭 I’m currently as Software Engineer in J.P.Morgan Chase]!

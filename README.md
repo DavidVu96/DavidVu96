@@ -1,8 +1,8 @@
 # Hi there, I'm [David](https://davidvu.co.uk) 👋
 
 ## I'm a Developer, Casual Gamer and Photographer!
-- 🔭 I’m currently as Software Engineer in J.P.Morgan Chase]!
-- 📖 I'm currently learning everything 🤣
+- 🔭 I’m currently working as Software Engineer in J.P.Morgan Chase!
+- 📖 I'm still learning everything 🤣 only know bits of Python, Java and React
 - 🏫 Graduated University of Southampton '17
 - ☕ Low-key coffee addict
 - 👯 I’m looking to collaborate with other developers
